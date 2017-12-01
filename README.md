@@ -74,7 +74,7 @@ Data Source: https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/d
 
 Data Source: https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data
 
-Bitcoin, being the oldest in the cryptocurrency market provides a peer-to-peer transaction for all prospective investors and Ethereum is its biggest competitor. The above three graphs show candlestick charts for Bitcoin, Ethereum and Litecoin showing the historical price pattern, since Ethereum was launched in 2015, we have taken a timeline of 2013-2017. As we observe, Bitcoin has witnessed a tremendous increase in its market price since inception and has remained the least volatile cryptocurrency in terms of investment and the price appreciation over the recent years.http://www.businessinsider.com/bitcoin-price-etherum-and-other-cryptocurrencies-compare-2017-9 While Ethereum had a wide volatility rate in 2017. Despite being considered and generally perceived to be a digital currency which in technical terms, Bitcoin is, it is however currently operated as an investment with exceptionally great profit margins as mentioned in other metrics where we are comparing it to USD/EURO dollars.
+Bitcoin, being the oldest in the cryptocurrency market provides a peer-to-peer transaction for all prospective investors and Ethereum is its biggest competitor. The above three graphs show candlestick charts for Bitcoin, Ethereum and Litecoin showing the historical price pattern, since Ethereum was launched in 2015, we have taken a timeline of 2013-2017 to maximize the Data-Viz ratio, so that we don't use extra pixels when not needed. As we observe, Bitcoin has witnessed a tremendous increase in its market price since inception and has remained the least volatile cryptocurrency in terms of investment and the price appreciation over the recent years.http://www.businessinsider.com/bitcoin-price-etherum-and-other-cryptocurrencies-compare-2017-9 While Ethereum had a wide volatility rate in 2017. Despite being considered and generally perceived to be a digital currency which in technical terms, Bitcoin is, it is however currently operated as an investment with exceptionally great profit margins as mentioned in other metrics where we are comparing it to USD/EURO dollars.
 For Litecoin, we can see that Litecoin’s price suffered high fluctuations in 2014 and 2017 primarily due to its digital currency feature. Litecoin’s market capitalization stands at $3.77 Billion and is seventh in terms of ranking among the cryptocurrencies. It is highly volatile when compared to Bitcoin because whenever it experiences an upstick, after that it suffers a high drop, which acts as an aversion.
 
 
@@ -127,7 +127,6 @@ The visualization above shows the number of transactions per day of Bitcoin comp
 ![image8](https://user-images.githubusercontent.com/32077698/33502424-d5a58636-d694-11e7-9222-93aa2abdfd74.png)
 
 This charts shows the comparison between Bitcoin and Ethereum by using the percentage difference in their average close prices, rather than comparing absolute prices. The percentage difference/change is calculated by new price - old price / old price, which gives the percent increase or decrease of the close price. Hence, higher percentage increase shows high change in price. In the above graph, Ethereum is the one showing high change in prices, which shows its volatility. Though its good to have high increase in profits but there are significant drops as well which makes it unstable and risky.<br />
-
 This is the **reason behind considering Bitcoin an ideal investment**, it has less fluctuating prices over time and more stable when it comes to an investment perspective. Also, Bitcoin is pretty old as compared to Ethereum so it has a history which can be relied upon. Many financial institutions and banks like J.P. Morgan have announced their plans to introduce cryptocurrency future which would provide attractive investment opportunities to all the prospective investors and would bring even more stability in the market of cryptocurrencies. Bitcoin investment would enable investors to utilize portfolio diversification, hedge their foreseeable risk and maximize the future expected return.
 
 
@@ -149,6 +148,9 @@ As we observe the graph, we see the percent increase in ROI since ICO for Ethere
 ## Link to Tableau Public:<br />
 https://public.tableau.com/profile/rachita.bhatia#!/vizhome/ShouldyoubetemptedtoinvestinBitcoin_0/Story1
 
+### Why we chose Story?
+
+
 ## Conclusion: 
 
 We can agree, the recent eye-popping gains in the cryptocurrency are hard to ignore, and for investors who want to expand their horizon in the investment market, definitely Bitcoin is the ideal stop. Risk is a part of any kind of investment, be it real estate, gold, oil or other currencies like USD/EURO or iconic companies like S&P 500. The potential of blockchain technology that underlies these virtual currencies is the new age technology. Many startups have started making use of it and also financial markets like Nasdaq have planned to introduce Bitcoin futures starting from next year. When it comes to taxation, the IRS views bitcoin and other virtual currencies as similar to stocks and bonds, and federal tax law dictates that purchasers and/or sellers must treat it as such. As far is limited bitcoin generation capability is concerned, as the Bitcoins will start becoming scarce(and that too in 2140 which is a very long time), the prices will rise as the demands will start increasing. Hence, after analyzing the benefits and risks, we can say that benefits outweigh the risks and Bitcoin, the Internet of money is a safe Investment!
@@ -156,6 +158,7 @@ We can agree, the recent eye-popping gains in the cryptocurrency are hard to ign
 
 ## RoadMap for future Enhancements:
 
+* Since we started early for the data collection, we can add in the latest data about bitcoin and then observe the trends.
 * Can analyze the "What if" scenarios for situational awareness.
 * Can explore the NVT ratio(Bitcoin's PE ratio), which is Network Value to Transactions Ratio. In traditional stock markets, PE ratio has been a long standing tool for valuing companies, where high ratio indicates that company has high growth. NVT is the bitcoin equivalent for PE(Price-earnings)ratio. For bitcoin, we have price per token but for earnings sake, we can consider the money flowing through its market as earnings. We have a chart from the website **woobull.com** that displays Network Value and Transaction value for Bitcoin and indicates that idea to use money flowing through bitcoin network as network valuation in the ratio is valid.
 
@@ -166,7 +169,8 @@ NVT helps to determine, if a price hike is a bubble or not. So lets see the grap
 ![image16](https://user-images.githubusercontent.com/32077698/33459980-0559515a-d5e1-11e7-997a-5d18275bb98d.png)
 
 So, we can further collect more data to calculate and visualize this metrics and identify a bubble, if there is one.<br />
- 
+* We could not add proper citations in this read me file, have just put the links. So may be we can explore it and try putting citations for the ease of understanding.
+
 ## References:
 
 http://markets.businessinsider.com/currencies/news/bitcoin-pizza-10000-100-million-2017-11-1009827466<br />
