@@ -44,9 +44,7 @@ Data about Number of Transactions per day for Bitcoin and Ethereum:<br />
 https://etherscan.io/chart/tx, https://www.quandl.com/data/BCHAIN/TOTBC-Total-Bitcoins?utm_medium=graph&utm_source=quandl<br />
 Data comparing EURO, USD Index prices:<br />
 http://www.global-view.com/forex-trading-tools/forex-history/, http://www.macrotrends.net/1329/us-dollar-index-historical-chart <br />
-### Here is the link to juypter notebook: <br />
-https://github.com/TeamProject-DataVisualization/Team-project---The-Bitcoin/blob/master/TheBitcoin_JupyterNotebook.ipynb
-
+### Here is the link to juypter notebook: https://github.com/TeamProject-DataVisualization/Team-project---The-Bitcoin/blob/master/TheBitcoin_JupyterNotebook.ipynb
 
 ### 3. Intermediate Prototypes:
 * #### Comparing 3 cryptocurrencies(Bitcoin, Ethereum and Litecoin) Candlesticks showing change in prices over time 
