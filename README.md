@@ -48,6 +48,7 @@ http://www.global-view.com/forex-trading-tools/forex-history/, http://www.macrot
 
 ### 3. Intermediate Prototypes:
 * #### Comparing 3 cryptocurrencies(Bitcoin, Ethereum and Litecoin) Candlesticks showing change in prices over time 
+Source:http://www.businessinsider.com/bitcoin-price-etherum-and-other-cryptocurrencies-compare-2017-9
 
 ![image4](https://user-images.githubusercontent.com/32077698/33450014-5b628408-d5bf-11e7-8ae2-c505d2eb18bc.png)
 
