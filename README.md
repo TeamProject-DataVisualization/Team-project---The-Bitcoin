@@ -108,7 +108,7 @@ The Visualization above shows a hindsight view of the value of Bitcoin against t
 #### Metrics 2: Bitcoin is an asset, Not a currency!
 ![image3](https://user-images.githubusercontent.com/32077698/33450013-5b41cc9a-d5bf-11e7-9d22-30fb2b7bf35d.png)
 
-The visualization above shows the number of transactions per day of Bitcoin compared to Ethereum(the second best in the cryptocurrency market). Though Bitcoin came in early (around 2009) the number of transactions per day using bitcoin have not increased very much- just 240K. This number when compared to the time frame which is 8 years is very less, considering the fact that this is a currency. The reason behind this – A Lot of people are buying bitcoins but are not using them in day-to-day transactions as they are treating them as an investment, a long term asset to keep. The comparison with Ethereum makes it clearer. Ethereum has almost double the amount of transactions which means that people are not willing to use it as an asset rather a mode of exchange. Therefore, we can conclude Bitcoin is an asset, not a currency as perceived by people!
+The visualization above shows the number of transactions per day of Bitcoin compared to Ethereum(the second best in the cryptocurrency market). Though Bitcoin came in early (around 2009) the number of transactions per day using bitcoin have not increased very much- just 240K. This number when compared to the time frame which is 8 years is very less, considering the fact that this is a currency. The reason behind this – A Lot of people are buying bitcoins but are not using them in day-to-day transactions as they are treating them as an investment, a long term asset to keep. The comparison with Ethereum makes it clearer. Ethereum has almost doubled in the amount of transactions which means that people are not willing to use it as an asset, but rather using it as a digital currency and a mode of exchange. Therefore, we can conclude Bitcoin is an asset and  not a currency as perceived by people!, whereas Ethereum is completely traded as a digital currency
 
 #### Metrics 3: Bitcoin, an ideal investment when compared to other cryptocurrencies!
 Image8
@@ -157,3 +157,8 @@ https://www.forbes.com/sites/chancebarnett/2017/09/23/inside-the-meteoric-rise-o
 http://woobull.com/introducing-nvt-ratio-bitcoins-pe-ratio-use-it-to-detect-bubbles/
 https://www.kaggle.com/team-ai/bitcoin-price-prediction/data
 https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data
+http://www.businessinsider.com/bitcoin-price-etherum-and-other-cryptocurrencies-compare-2017-9
+https://blockgeeks.com/guides/what-is-blockchain-technology/
+https://en.wikipedia.org/wiki/Blockchain
+https://bravenewcoin.com/news/litecoin-price-analysis-retest-of-all-time-highs-on-the-horizon/
+https://www.quandl.com/data/BITCOINWATCH/MINING-Bitcoin-Mining-Statistics
