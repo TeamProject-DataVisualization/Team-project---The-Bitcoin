@@ -4,8 +4,9 @@
 
 Bitcoin, a **worldwide cryptocurrency** invented by an unknown person/group with alias Satoshi Nakamoto. It is the first decentralized digital currency, as the system works without a central repository or single administrator. The coins don’t exist in a tangible form but are made by computers and stored in a digital wallet or on the cloud but there is a finite number of bitcoin that can be supplied i.e. 21 million and there are currently 16 million in circulation.<br />
 
-Why this topic? Bitcoin price soars above **$11000** to a **new record high value!** This is the headline all news channels were telecasting from the past few days. Moreover, the question in everyone's mind is **Will it survive or is it just a bubble?** The value of bitcoin is tied purely to the concept of supply and demand, as the people are getting more aware about it and buying it, the prices are increasing. As we compare to other established currencies and commodities like USD/EURO dollar or gold prices, Bitcoin has been very volatile and also the market for Bitcoin is not regulated as per the laws. Still bitcoin prices are rising wildly, you might be wondering **how wild it can be** - _Seven years ago, two pizzas could be bought for 10,000 bitcoins, which today would be worth $100 million._<br />
+Why this topic? Bitcoin price soars above **$11000** to a **new record high value!** This is the headline all news channels were telecasting from the past few days. Moreover, the question in everyone's mind is **Will it survive or is it just a bubble?** The value of bitcoin is tied purely to the concept of supply and demand, as the people are getting more aware about it and buying it, the prices are increasing. As we compare to other established currencies and commodities like USD/EURO dollar or gold prices, Bitcoin has been very volatile and also the market for Bitcoin is not regulated as per the laws. Still bitcoin prices are rising wildly, you might be wondering **how wild it can be** - _Seven years ago, two pizzas could be bought for 10,000 bitcoins, which today would be worth $100 million.
 http://markets.businessinsider.com/currencies/news/bitcoin-pizza-10000-100-million-2017-11-1009827466
+
 Demand is increasing, alongside criticism, if you want to get involved in the cryptocurrency then awareness is the key. Therefore, we will be doing a thorough analysis about the benefits and risks involved for a potential investor willing to diversify his/her portfolio of investment and then conclude "Would it be the best use of an investor's money?"
 
 ## Potential Investors as Audience:
@@ -41,16 +42,16 @@ The reason we focussed on Bitcoin out of all the currencies, is because Bitcoin 
 To reach a decision, we analyzed some key metrics about the market trends shown by the Bitcoin and other currencies. We have multiple data sets web scraped and downloaded from websites like kaggle.com, quandl.com, coindesk.com etc. We collected datasets about open, high, low, close prices of Bitcoin, Ethereum and Litecoin i.e. all the cryptocurrencies, Nasdaq and S&P Index for Bitcoin, Bitcoin’s comparison to USD/EURO currencies. Also, data about number of transactions per day for Bitcoin and Ethereum(the second best cryptocurrency in the market) to see if there are some exceptions. As cryptocurrencies are also being used as Initial coin offerings by some companies, we collected data about Bitcoin’s and Ethereum’s Return on Investment since ICO. <br />
 The datasets did not require much cleaning, we renamed some columns and integrated the datasets as per the common attributes and got 3 different datasets in the end. Data sources are mentioned below:<br />
 
-Data about Open, High, Low, Close prices of cryptocurrencies(Bitcoin, Litecoin, Monero, Ethereum):<br />
+_**Data about Open, High, Low, Close prices of cryptocurrencies(Bitcoin, Litecoin, Monero, Ethereum):**_<br />
 https://www.kaggle.com/team-ai/bitcoin-price-prediction/data, https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data<br />
-Data about S&P 500 and Nasdaq Index: <br />
+_**Data about S&P 500 and Nasdaq Index:**_ <br />
 http://www.nasdaq.com/symbol/spy/historical, <br />
 https://finance.yahoo.com/quote/%5EIXIC/history?period1=34588800&period2=1511510400&interval <br />
-Data about Bitcoin and Ethereum's Return on Investment(ROI) since they are being used as Initial Coin Offerings(ICO):<br />
+_**Data about Bitcoin and Ethereum's Return on Investment(ROI) since they are being used as Initial Coin Offerings(ICO):**_<br />
 https://www.icostats.com/vs-btc <br />
-Data about Number of Transactions per day for Bitcoin and Ethereum:<br />
+_**Data about Number of Transactions per day for Bitcoin and Ethereum:**_<br />
 https://etherscan.io/chart/tx, https://www.quandl.com/data/BCHAIN/TOTBC-Total-Bitcoins?utm_medium=graph&utm_source=quandl<br />
-Data comparing EURO, USD Index prices:<br />
+_**Data comparing EURO, USD Index prices:**_<br />
 http://www.global-view.com/forex-trading-tools/forex-history/, http://www.macrotrends.net/1329/us-dollar-index-historical-chart <br />
 ### Here is the link to juypter notebook: https://github.com/TeamProject-DataVisualization/Team-project---The-Bitcoin/blob/master/TheBitcoin_JupyterNotebook.ipynb
 
