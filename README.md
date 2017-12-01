@@ -4,13 +4,14 @@
 
 Bitcoin, a **worldwide cryptocurrency** invented by an unknown person/group with alias Satoshi Nakamoto. It is the first decentralized digital currency, as the system works without a central repository or single administrator. The coins don’t exist in a tangible form but are made by computers and stored in a digital wallet or on the cloud but there is a finite number of bitcoin that can be supplied i.e. 21 million and there are currently 16 million in circulation.<br />
 
-Why this topic? Bitcoin price soars above **$11000** to a **new record high value!** This is the headline all news channels were telecasting from the past few days. Moreover, the question in everyone's mind is **Will it survive or is it just a bubble?** The value of bitcoin is tied purely to the concept of supply and demand, as the people are getting more aware about it and buying it, the prices are increasing. As we compare to other established currencies and commodities like USD/EURO dollar or gold prices, Bitcoin has been very volatile and also the market for Bitcoin is not regulated as per the laws. Still bitcoin prices are rising wildly, you might be wondering **how wild it can be** - [Seven years ago, two pizzas could be bought for 10,000 bitcoins, which today would be worth $100 million.](http://markets.businessinsider.com/currencies/news/bitcoin-pizza-10000-100-million-2017-11-1009827466)
+Why this topic? Bitcoin price soars above **$11000** to a new record high value! This is the headline all news channels were telecasting from the past few days. Moreover, the question in everyone's mind is **Will it survive or is it just a bubble?** The value of bitcoin is tied purely to the concept of supply and demand, as the people are getting more aware about it and buying it, the prices are increasing. As we compare to other established currencies and commodities like USD/EURO dollar or gold prices, Bitcoin has been very volatile and also the market for Bitcoin is not regulated as per the laws. Still bitcoin prices are rising wildly, you might be wondering how wild it can be - Seven years ago, two pizzas could be bought for 10,000 bitcoins, which today would be worth $100 million.(http://markets.businessinsider.com/currencies/news/bitcoin-pizza-10000-100-million-2017-11-1009827466)
 
 Demand is increasing, alongside criticism, if you want to get involved in the cryptocurrency then awareness is the key. Therefore, we will be doing a thorough analysis about the benefits and risks involved for a potential investor willing to diversify his/her portfolio of investment and then conclude "Would it be the best use of an investor's money?"
 
 ## Potential Investors as Audience:
 
 Our targeted audience is a potential investor interested in diversifying his/her existing portfolio of investments. In order to maximize expected return and minimize foreseeable risk inherited in the current industries of his/her investments, the ultimate objective of the mentioned investor is to invest in a industry different than the existing ones, and we are analyzing the positive and negative aspects of investing in crytocurrencies, specifically Bitcoin and "Will it a profitable avenue for the audience to consider investing in?"
+**The reason we selected this as our specific audience** is  
 
 ### Audience Need:
 
@@ -18,7 +19,7 @@ The Audience is interested in taking profits from the likely arbitrage opportuni
 
 ### Audience Want:
 
-Our presumed audience for this analysis of Bitcoin investment is a prospective investor intending to diversify his/her investments. That particular investor wants to ascertain the positive aspects of investing in cryptocurrencies. The chances of earning a higher profit margin and return on investment as compared to other traditional investments are also part of the wants of our audience. 
+Our presumed audience for this analysis of Bitcoin investment is a prospective investor intending to diversify his/her investments. That particular investor wants to ascertain the positive aspects of investing in cryptocurrencies. The chances of earning a higher profit margin and return on investment as compared to other traditional investments are also part of the wants of our audience. The reason **why the Investors have this want** is because they want to expand the horizon of their investments and crypto-currencies are one good avenue of investment in the new technology age.
 
 ### Audience Fears:
 
@@ -38,8 +39,11 @@ The reason we focussed on Bitcoin out of all the currencies, is because Bitcoin 
 
 ### 2. Data Wrangling:
 
+#### Here is the link to juypter notebook: https://github.com/TeamProject-DataVisualization/Team-project---The-Bitcoin/blob/master/TheBitcoin_JupyterNotebook.ipynb
+
 To reach a decision, we analyzed some key metrics about the market trends shown by the Bitcoin and other currencies. We have multiple data sets web scraped and downloaded from websites like kaggle.com, quandl.com, coindesk.com etc. We collected datasets about open, high, low, close prices of Bitcoin, Ethereum and Litecoin i.e. all the cryptocurrencies, Nasdaq and S&P Index for Bitcoin, Bitcoin’s comparison to USD/EURO currencies. Also, data about number of transactions per day for Bitcoin and Ethereum(the second best cryptocurrency in the market) to see if there are some exceptions. As cryptocurrencies are also being used as Initial coin offerings by some companies, we collected data about Bitcoin’s and Ethereum’s Return on Investment since ICO. <br />
-The datasets did not require much cleaning, we renamed some columns and integrated the datasets as per the common attributes and got 3 different datasets in the end. Data sources are mentioned below:<br />
+**Why we selected this data?** Because the audience we are presuming are "Investors looking to diversify their investment portfolio". So, while investing somewhere they would certainly like to know how this particular currency is better than the others in the market and also would like to look at the historical price trends of each to make a decision.<br /> 
+We have shown data until 7th Nov, 2017 because thats when we started with the data analysis and wrangling. Also, there are many null values in the datasets because of the time range difference. For example, for Bitcoin we have data from 2013 and Ethereum came in 2015. So when we integrated data we got null for Ethereum values for years 2013-2014. The datasets did not require much cleaning, we renamed some columns and integrated the datasets as per the common attributes and got 3 different datasets in the end. Data sources are mentioned below:<br />
 
 _**Data about Open, High, Low, Close prices of cryptocurrencies(Bitcoin, Litecoin, Monero, Ethereum):**_<br />
 https://www.kaggle.com/team-ai/bitcoin-price-prediction/data, https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data<br />
@@ -52,7 +56,7 @@ _**Data about Number of Transactions per day for Bitcoin and Ethereum:**_<br />
 https://etherscan.io/chart/tx, https://www.quandl.com/data/BCHAIN/TOTBC-Total-Bitcoins?utm_medium=graph&utm_source=quandl<br />
 _**Data comparing EURO, USD Index prices:**_<br />
 http://www.global-view.com/forex-trading-tools/forex-history/, http://www.macrotrends.net/1329/us-dollar-index-historical-chart <br />
-### Here is the link to juypter notebook: https://github.com/TeamProject-DataVisualization/Team-project---The-Bitcoin/blob/master/TheBitcoin_JupyterNotebook.ipynb
+
 
 ### 3. Intermediate Prototypes:
 
@@ -118,8 +122,7 @@ The above charts show the candlesticks for Bitcoin, S&P 500 and Nasdaq Index com
 The Visualization above shows a hindsight view of the value of Bitcoin against the major established currencies like USD and Euro in the market. The Cryptocurrency market is different from the Currency market in a way that the currencies are highly circulated to buy/sell goods and services globally and every platform accept these for transactions. But for Bitcoin, there are not as many platforms as other currencies have for tranactions, people have lately started to accept it. But as we observe the graph, the scale of the value of the investments in the Cryptocurrency market is very high. So, based on the past market trends of bitcoin, we can say that if you invest in bitcoin even today, it can promise you higher returns in the future. Bitcoin is indeed, a highly-valued asset to have!
 
 #### _Metrics 2:_ Bitcoin is an asset, Not a currency!
-
-<img width="1038" alt="screen shot 2017-12-01 at 9 53 50 am" src="https://user-images.githubusercontent.com/32205588/33496074-b21b3146-d67d-11e7-91f2-292c754d40ea.png">
+![image3](https://user-images.githubusercontent.com/32077698/33499723-f9eb733e-d68a-11e7-9eef-31de8c89f240.png)
 
 The visualization above shows the number of transactions per day of Bitcoin compared to Ethereum(the second best in the cryptocurrency market). Though Bitcoin came in early (around 2009) the number of transactions per day using bitcoin have not increased very much- just 240K. This number when compared to the time frame which is 8 years is very less, considering the fact that this is a currency. The reason behind this – A Lot of people are buying bitcoins but are not using them in day-to-day transactions as they are treating them as an investment, a long term asset to keep. The comparison with Ethereum makes it clearer. Ethereum has almost doubled in the amount of transactions which means that people are not willing to use it as an asset, but rather using it as a digital currency and a mode of exchange. Therefore, we can conclude Bitcoin is an asset and  not a currency as perceived by people! Whereas Ethereum is completely traded as a digital currency. https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/jeffreydorfman/2017/05/17/bitcoin-is-an-asset-not-a-currency/&refURL=&referrer=#6a0eeb252e5b
 
