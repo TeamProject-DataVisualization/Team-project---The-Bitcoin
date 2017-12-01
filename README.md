@@ -74,7 +74,6 @@ Data Source: https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/d
 
 Data Source: https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data
 
-
 Bitcoin, being the oldest in the cryptocurrency market provides a peer-to-peer transaction for all prospective investors and Ethereum is its biggest competitor. The above three graphs show candlestick charts for Bitcoin, Ethereum and Litecoin showing the historical price pattern, since Ethereum was launched in 2015, we have taken a timeline of 2013-2017. As we observe, Bitcoin has witnessed a tremendous increase in its market price since inception and has remained the least volatile cryptocurrency in terms of investment and the price appreciation over the recent years.http://www.businessinsider.com/bitcoin-price-etherum-and-other-cryptocurrencies-compare-2017-9 While Ethereum had a wide volatility rate in 2017. Despite being considered and generally perceived to be a digital currency which in technical terms, Bitcoin is, it is however currently operated as an investment with exceptionally great profit margins as mentioned in other metrics where we are comparing it to USD/EURO dollars.
 For Litecoin, we can see that Litecoin’s price suffered high fluctuations in 2014 and 2017 primarily due to its digital currency feature. Litecoin’s market capitalization stands at $3.77 Billion and is seventh in terms of ranking among the cryptocurrencies. It is highly volatile when compared to Bitcoin because whenever it experiences an upstick, after that it suffers a high drop, which acts as an aversion.
 
@@ -143,8 +142,9 @@ By observing the market trends of bitcoin against S&P 500, we all know that Bitc
 ### Ethereum has better ROI since ICO
 ![image17](https://user-images.githubusercontent.com/32077698/33502427-d5dd6dee-d694-11e7-9287-b03ec40027ad.png)
 
-Initial Coin offerings(ICOs) have now grown to be the next big thing for startups rather than all of the Venture capital, using cryptocurrency as the source of capital. ICOs have raised nearly $2.3billion, with majority of it being raised in 2017. The visualization above shows the Initial coin offering(ICO) names and the ROI for Bitcoin and Ethereum since they have started being used as ICO. This shows that Ethereum is better than Bitcoin when it comes to ROI. Ethereum is the block chain-based platform where majority of the ICOs have been developed and hence it is more recognised in the ICO world. 
-The reasons behind the growth of cryptocurrencies as ICO is certainly the increasing prices and adoption of block chain technology by the start ups rather than using the traditional innovation strategies. https://www.forbes.com/sites/chancebarnett/2017/09/23/inside-the-meteoric-rise-of-icos/#792afb155670 The investors who invested in early stages have received incredible returns which have made the new investors curious to explore the world of cryptocurrencies. Though Bitcoin is soaring high everyday but when it comes to Return on Investments, Ethereum goes to the first position, it is among the top performers according to icostats.com with 126,300% ROI since ICO for NXT.
+Initial Coin offerings(ICOs) have now grown to be the next big thing for startups. Rather than using all the Venture capital, using cryptocurrency as the source of capital is the new thing. ICOs have raised nearly $2.3billion, with majority of it being raised in 2017. The visualization above shows the Initial coin offering(ICO) names and the ROI for Bitcoin and Ethereum since the time they have started being used as ICO. This shows that Ethereum is better than Bitcoin when it comes to ROI. Ethereum is the block chain-based platform where majority of the ICOs have been developed and hence it is more recognised in terms of ICO. 
+The **reasons behind the growth of cryptocurrencies as ICO** is certainly the increasing prices and adoption of block chain technology by the start ups rather than using the traditional innovation strategies. https://www.forbes.com/sites/chancebarnett/2017/09/23/inside-the-meteoric-rise-of-icos/#792afb155670 The investors who invested in early stages have received incredible returns which have made the new investors curious to explore the world of cryptocurrencies. Though Bitcoin is soaring high everyday but when it comes to Return on Investments through ICO, Ethereum is at the first position, it is among the top performers according to icostats.com.
+As we observe the graph, we see the percent increase in ROI since ICO for Ethereum is very high than Bitcoin, for specific companies like Aeternity phase I, its 2172% and for other companies also it is high for ETH. **Why ICOs choose ETH?** ICOs choose ETH because with the ERC20 standard it is both seamless and easy to issue tokens using a smart contract. However, if these ICOs fail, then it does not help ETH, in fact, it harms its reputation and hence price could also drop.(http://coinnoob.com/ico-choosing)
 
 ## Link to Tableau Public:<br />
 https://public.tableau.com/profile/rachita.bhatia#!/vizhome/ShouldyoubetemptedtoinvestinBitcoin_0/Story1
@@ -169,22 +169,21 @@ So, we can further collect more data to calculate and visualize this metrics and
  
 ## References:
 
-http://markets.businessinsider.com/currencies/news/bitcoin-pizza-10000-100-million-2017-11-1009827466
-https://www.coindesk.com/sp-cryptocurrency-contextualizing-bitcoins-price-explosion/
-https://support.coinbase.com/customer/portal/articles/1834921-why-does-bitcoin-change-value-why-is-the-price-so-volatile-
-https://www.forbes.com/sites/chancebarnett/2017/09/23/inside-the-meteoric-rise-of-icos/#40d1d8985670
-http://woobull.com/introducing-nvt-ratio-bitcoins-pe-ratio-use-it-to-detect-bubbles/
-https://www.kaggle.com/team-ai/bitcoin-price-prediction/data
-https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data
-http://www.businessinsider.com/bitcoin-price-etherum-and-other-cryptocurrencies-compare-2017-9
-https://blockgeeks.com/guides/what-is-blockchain-technology/
-https://en.wikipedia.org/wiki/Blockchain
-https://bravenewcoin.com/news/litecoin-price-analysis-retest-of-all-time-highs-on-the-horizon/
-https://www.quandl.com/data/BITCOINWATCH/MINING-Bitcoin-Mining-Statistics
-https://www.coinbase.com/what-is-ethereum?locale=en-US
-http://www.businesstoday.in/current/economy-politics/bitcoin-dollar-value-crytpocurrencies-rise-invest-10000-buy-investment/story/264817.html
-http://www.chicagotribune.com/business/ct-biz-bitcoin-investing-advice-inv-20171114-story.html
-https://etherscan.io/chart/tx
-https://coinmarketcap.com/
-https://www.quora.com/Which-one-is-a-better-investment-Bitcoin-Ethereum-Litecoin-or-Ripple
-https://coinmarketcap.com/
+http://markets.businessinsider.com/currencies/news/bitcoin-pizza-10000-100-million-2017-11-1009827466<br />
+https://www.coindesk.com/sp-cryptocurrency-contextualizing-bitcoins-price-explosion/<br />
+https://support.coinbase.com/customer/portal/articles/1834921-why-does-bitcoin-change-value-why-is-the-price-so-volatile-<br />
+https://www.forbes.com/sites/chancebarnett/2017/09/23/inside-the-meteoric-rise-of-icos/#40d1d8985670<br />
+http://woobull.com/introducing-nvt-ratio-bitcoins-pe-ratio-use-it-to-detect-bubbles/<br />
+https://www.kaggle.com/team-ai/bitcoin-price-prediction/data<br />
+https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data<br />
+http://www.businessinsider.com/bitcoin-price-etherum-and-other-cryptocurrencies-compare-2017-9<br />
+https://blockgeeks.com/guides/what-is-blockchain-technology/<br />
+https://en.wikipedia.org/wiki/Blockchain<br />
+https://bravenewcoin.com/news/litecoin-price-analysis-retest-of-all-time-highs-on-the-horizon/<br />
+https://www.quandl.com/data/BITCOINWATCH/MINING-Bitcoin-Mining-Statistics<br />
+https://www.coinbase.com/what-is-ethereum?locale=en-US<br />
+http://www.businesstoday.in/current/economy-politics/bitcoin-dollar-value-crytpocurrencies-rise-invest-10000-buy-investment/story/264817.html<br />
+http://www.chicagotribune.com/business/ct-biz-bitcoin-investing-advice-inv-20171114-story.html<br />
+https://etherscan.io/chart/tx<br />
+https://www.quora.com/Which-one-is-a-better-investment-Bitcoin-Ethereum-Litecoin-or-Ripple<br />
+https://coinmarketcap.com/<br />
