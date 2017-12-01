@@ -127,7 +127,7 @@ The Visualization above shows a hindsight view of the value of Bitcoin against t
 The visualization above shows the number of transactions per day of Bitcoin compared to Ethereum(the second best in the cryptocurrency market). Though Bitcoin came in early (around 2009) the number of transactions per day using bitcoin have not increased very much- just 240K. This number when compared to the time frame which is 8 years is very less, considering the fact that this is a currency. The reason behind this – A Lot of people are buying bitcoins but are not using them in day-to-day transactions as they are treating them as an investment, a long term asset to keep. The comparison with Ethereum makes it clearer. Ethereum has almost doubled in the amount of transactions which means that people are not willing to use it as an asset, but rather using it as a digital currency and a mode of exchange. Therefore, we can conclude Bitcoin is an asset and  not a currency as perceived by people! Whereas Ethereum is completely traded as a digital currency. https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/jeffreydorfman/2017/05/17/bitcoin-is-an-asset-not-a-currency/&refURL=&referrer=#6a0eeb252e5b
 
 #### _Metrics 3:_ Bitcoin, an ideal investment when compared to other cryptocurrencies!
-Image8
+![image8](https://user-images.githubusercontent.com/32077698/33502424-d5a58636-d694-11e7-9222-93aa2abdfd74.png)
 
 This charts shows the comparison between Bitcoin and Ethereum by using the percentage difference in their average prices, rather than comparing absolute prices. This shows that Bitcoin is performing better than Ethereum because Ethereum lies just near the 0% but
 
@@ -135,16 +135,14 @@ The reason behind considering Bitcoin an ideal investment is, Bitcoin has low vo
 
 
 #### _Metrics 4:_ S&P 500 took 30 times longer to reach where Bitcoin is today!
-
-Image11
+![image11](https://user-images.githubusercontent.com/32077698/33502426-d5bdf720-d694-11e7-8589-95e4a3b41e5a.png)
 
 By observing the market trends of bitcoin against S&P 500 and Nasdaq, we all know that Bitcoin has outperformed these iconic companies. Year over year, its value has risen above 600 percent. S&P 500 is often used as a benchmark to track investments by investors. Over the last 90 years, the average annual rate of return has only been 9.8% for S&P 500 while Bitcoin's moonshot rise has outperformed this benchmark by 6000 percent https://www.coindesk.com/sp-cryptocurrency-contextualizing-bitcoins-price-explosion/. Nasdaq itself is planning to introduce bitcoin futures next year, this will further push Bitcoin into the mainstream investing universe. Also, when we look at the graph it compares them on standard grounds on the same scale which gives us the clear idea, why bitcoin is the one you should invest in.
 
 ## The Rebuttal:
 
 ### Ethereum has better ROI since ICO
-
-Image13
+![image17](https://user-images.githubusercontent.com/32077698/33502427-d5dd6dee-d694-11e7-9287-b03ec40027ad.png)
 
 Initial Coin offerings(ICOs) have now grown to be the next big thing for startups rather than all of the Venture capital, using cryptocurrency as the source of capital. ICOs have raised nearly $2.3billion, with majority of it being raised in 2017. The visualization above shows the Initial coin offering(ICO) names and the ROI for Bitcoin and Ethereum since they have started being used as ICO. This shows that Ethereum is better than Bitcoin when it comes to ROI. Ethereum is the block chain-based platform where majority of the ICOs have been developed and hence it is more recognised in the ICO world. 
 The reasons behind the growth of cryptocurrencies as ICO is certainly the increasing prices and adoption of block chain technology by the start ups rather than using the traditional innovation strategies. https://www.forbes.com/sites/chancebarnett/2017/09/23/inside-the-meteoric-rise-of-icos/#792afb155670 The investors who invested in early stages have received incredible returns which have made the new investors curious to explore the world of cryptocurrencies. Though Bitcoin is soaring high everyday but when it comes to Return on Investments, Ethereum goes to the first position, it is among the top performers according to icostats.com with 126,300% ROI since ICO for NXT.
