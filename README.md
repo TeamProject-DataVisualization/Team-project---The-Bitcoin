@@ -52,15 +52,15 @@ Source:http://www.businessinsider.com/bitcoin-price-etherum-and-other-cryptocurr
 
 ![image4](https://user-images.githubusercontent.com/32077698/33450014-5b628408-d5bf-11e7-8ae2-c505d2eb18bc.png)
 
-                                   Source: https://www.kaggle.com/team-ai/bitcoin-price-prediction/data
+Source: https://www.kaggle.com/team-ai/bitcoin-price-prediction/data
 
 ![image5](https://user-images.githubusercontent.com/32077698/33450015-5b7cec62-d5bf-11e7-8b25-bfb7637a78ae.png)
 
-                                   Source: https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data
+Source: https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data
                                   
 ![image13](https://user-images.githubusercontent.com/32077698/33457285-def130e6-d5d6-11e7-9537-727e2fd1479a.png)
 
-                                   Source: https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data
+Source: https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data
 
 
 Bitcoin, being the oldest in the cryptocurrency market provides a peer-to-peer transaction for all prospective investors and Ethereum is its biggest competitor. The above three graphs show candlestick charts for Bitcoin, Ethereum and Litecoin showing the historical price pattern, since Ethereum was launched in 2015, we have taken a timeline of 2013-2017. As we observe, Bitcoin has witnessed a tremendous increase in its market price since inception and has remained the least volatile cryptocurrency in terms of investment and the price appreciation over the recent years when compared to Ethereum, which had a wide volatility rate in 2017. Despite being considered and generally perceived to be a digital currency which in technical terms, Bitcoin is, it is however currently operated as an investment with exceptionally great profit margins as mentioned in other metrics. 
@@ -71,15 +71,15 @@ For Litecoin, we can see that Litecoin’s price suffered high fluctuations in 2
 
 ![image6](https://user-images.githubusercontent.com/32077698/33450016-5bb92d26-d5bf-11e7-983f-ebe058657b24.png)
 
-                                   Source: https://www.kaggle.com/team-ai/bitcoin-price-prediction/data
+Source: https://www.kaggle.com/team-ai/bitcoin-price-prediction/data
 
 ![image7](https://user-images.githubusercontent.com/32077698/33456762-3ce1e382-d5d5-11e7-85df-b1808fbb32a1.png)
 
-                                   Source: https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data
+Source: https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data
 
 ![image14](https://user-images.githubusercontent.com/32077698/33457286-df12adac-d5d6-11e7-898e-aa72ee2b23d8.png)
 
-                                   Source: https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data
+Source: https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data
 
 
 The above Tableau visual shows the Bollinger Bands for Bitcoin, Ethereum and Litecoin's price using moving average and utilizing the lower and upper band as price indicators. As we see, Bitcoin has witnessed a steady rise and its moving average has reasonably stayed with the lower and upper bands. This indicates less volatility and better foreseeability for prospective investors interested in investing in Bitcoin while for Ethereum, since upper and lower bands indicate volatility, we can see that it has suffered a drastic volatility in 2017 as the bands widened in the gap from the moving average in the middle. Though this trend was witnessed by almost all of the major cryptocurrencies in the year 2017 but volatility of Ethereum was higher than that of Bitcoin.<br />
