@@ -186,3 +186,5 @@ http://www.businesstoday.in/current/economy-politics/bitcoin-dollar-value-crytpo
 http://www.chicagotribune.com/business/ct-biz-bitcoin-investing-advice-inv-20171114-story.html
 https://etherscan.io/chart/tx
 https://coinmarketcap.com/
+https://www.quora.com/Which-one-is-a-better-investment-Bitcoin-Ethereum-Litecoin-or-Ripple
+https://coinmarketcap.com/
