@@ -2,7 +2,7 @@
 
 ## Project Statement:
 
-Bitcoin, a **worldwide cryptocurrency** invented by an unknown person/group with alias Satoshi Nakamoto. It is the first decentralized digital currency, as the system works without a central repository or single administrator. The coins don’t exist in a tangible form but are made by computers and stored in a digital wallet or on the cloud but there is a finite number of bitcoin that can be supplied i.e. 21 million and there are currently 16 million in circulation.<br />
+Bitcoin, a worldwide cryptocurrency invented by an unknown person/group with alias Satoshi Nakamoto. It is the first decentralized digital currency, as the system works without a central repository or single administrator. The coins don’t exist in a tangible form but are made by computers and stored in a digital wallet or on the cloud but there is a finite number of bitcoin that can be supplied i.e. 21 million and there are currently 16 million in circulation.<br />
 
 Why this topic? Bitcoin price soars above **$11000** to a new record high value! This is the headline all news channels were telecasting from the past few days. Moreover, the question in everyone's mind is **Will it survive or is it just a bubble?** The value of bitcoin is tied purely to the concept of supply and demand, as the people are getting more aware about it and buying it, the prices are increasing. As we compare to other established currencies and commodities like USD/EURO dollar or gold prices, Bitcoin has been very volatile and also the market for Bitcoin is not regulated as per the laws. Still bitcoin prices are rising wildly, you might be wondering how wild it can be - Seven years ago, two pizzas could be bought for 10,000 bitcoins, which today would be worth $100 million.(http://markets.businessinsider.com/currencies/news/bitcoin-pizza-10000-100-million-2017-11-1009827466)
 
@@ -11,7 +11,7 @@ Demand is increasing, alongside criticism, if you want to get involved in the cr
 ## Potential Investors as Audience:
 
 Our targeted audience is a potential investor interested in diversifying his/her existing portfolio of investments. In order to maximize expected return and minimize foreseeable risk inherited in the current industries of his/her investments, the ultimate objective of the mentioned investor is to invest in a industry different than the existing ones, and we are analyzing the positive and negative aspects of investing in crytocurrencies, specifically Bitcoin and "Will it a profitable avenue for the audience to consider investing in?"
-**The reason we selected this as our specific audience** is  
+**The reason we selected this as our specific audience** because their current need of diversification resonates very well with the price appreciation of Bitcoin and the other top crypto-currencies in the market. And also we wanted an audience that is familiar with the market already and understands the risk involved.
 
 ### Audience Need:
 
@@ -19,7 +19,7 @@ The Audience is interested in taking profits from the likely arbitrage opportuni
 
 ### Audience Want:
 
-Our presumed audience for this analysis of Bitcoin investment is a prospective investor intending to diversify his/her investments. That particular investor wants to ascertain the positive aspects of investing in cryptocurrencies. The chances of earning a higher profit margin and return on investment as compared to other traditional investments are also part of the wants of our audience. The reason **why the Investors have this want** is because they want to expand the horizon of their investments and crypto-currencies are one good avenue of investment in the new technology age.
+An investor looking to invest would want to ascertain the positive aspects of investing in cryptocurrencies. The chances of earning a higher profit margin and return on investment as compared to other traditional investments are also part of the wants of our audience. He/she would also want to see the risks involved while investing. The reason **why the Investors have this want** is because they want to expand the horizon of their investments and crypto-currencies are one good avenue of investment in the new technology age.
 
 ### Audience Fears:
 
@@ -41,10 +41,14 @@ The reason we focussed on Bitcoin out of all the currencies, is because Bitcoin 
 
 #### Here is the link to juypter notebook: https://github.com/TeamProject-DataVisualization/Team-project---The-Bitcoin/blob/master/TheBitcoin_JupyterNotebook.ipynb
 
-To reach a decision, we analyzed some key metrics about the market trends shown by the Bitcoin and other currencies. We have multiple data sets web scraped and downloaded from websites like kaggle.com, quandl.com, coindesk.com etc. We collected datasets about open, high, low, close prices of Bitcoin, Ethereum and Litecoin i.e. all the cryptocurrencies, Nasdaq and S&P Index for Bitcoin, Bitcoin’s comparison to USD/EURO currencies. Also, data about number of transactions per day for Bitcoin and Ethereum(the second best cryptocurrency in the market) to see if there are some exceptions. As cryptocurrencies are also being used as Initial coin offerings by some companies, we collected data about Bitcoin’s and Ethereum’s Return on Investment since ICO. <br />
+To reach a decision, we analyzed some key metrics about the market trends shown by the Bitcoin and other currencies. We have multiple data sets web scraped and downloaded from websites like kaggle.com, quandl.com, coindesk.com etc. We collected datasets about open, high, low, close prices of Bitcoin, Ethereum and Litecoin i.e. all the cryptocurrencies, Nasdaq and S&P Index for Bitcoin, Bitcoin’s comparison to USD/EURO currencies. Also, data about number of transactions per day for Bitcoin and Ethereum(the second best crypto-currency in the market) to see if there are some exceptions. As cryptocurrencies are also being used as Initial coin offerings by some companies, we collected data about Bitcoin’s and Ethereum’s Return on Investment since ICO. <br />
 **Why we selected this data?** Because the audience we are presuming are "Investors looking to diversify their investment portfolio". So, while investing somewhere they would certainly like to know how this particular currency is better than the others in the market and also would like to look at the historical price trends of each to make a decision.<br /> 
 We have shown data until 7th Nov, 2017 because thats when we started with the data analysis and wrangling. Also, there are many null values in the datasets because of the time range difference. For example, for Bitcoin we have data from 2013 and Ethereum came in 2015. So when we integrated data we got null for Ethereum values for years 2013-2014. The datasets did not require much cleaning, we renamed some columns and integrated the datasets as per the common attributes and got 3 different datasets in the end. Data sources are mentioned below:<br />
 
+_**Data comparing EURO, USD Index prices:**_<br />
+http://www.global-view.com/forex-trading-tools/forex-history/, http://www.macrotrends.net/1329/us-dollar-index-historical-chart <br />
+_**Data about Number of Transactions per day for Bitcoin and Ethereum:**_<br />
+https://etherscan.io/chart/tx, https://www.quandl.com/data/BCHAIN/TOTBC-Total-Bitcoins?utm_medium=graph&utm_source=quandl<br />
 _**Data about Open, High, Low, Close prices of cryptocurrencies(Bitcoin, Litecoin, Monero, Ethereum):**_<br />
 https://www.kaggle.com/team-ai/bitcoin-price-prediction/data, https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data<br />
 _**Data about S&P 500 and Nasdaq Index:**_ <br />
@@ -52,16 +56,11 @@ http://www.nasdaq.com/symbol/spy/historical, <br />
 https://finance.yahoo.com/quote/%5EIXIC/history?period1=34588800&period2=1511510400&interval <br />
 _**Data about Bitcoin and Ethereum's Return on Investment(ROI) since they are being used as Initial Coin Offerings(ICO):**_<br />
 https://www.icostats.com/vs-btc <br />
-_**Data about Number of Transactions per day for Bitcoin and Ethereum:**_<br />
-https://etherscan.io/chart/tx, https://www.quandl.com/data/BCHAIN/TOTBC-Total-Bitcoins?utm_medium=graph&utm_source=quandl<br />
-_**Data comparing EURO, USD Index prices:**_<br />
-http://www.global-view.com/forex-trading-tools/forex-history/, http://www.macrotrends.net/1329/us-dollar-index-historical-chart <br />
 
 
 ### 3. Intermediate Prototypes:
 
 #### Comparing 3 cryptocurrencies(Bitcoin, Ethereum and Litecoin) Candlesticks showing change in prices over time 
-Source:http://www.businessinsider.com/bitcoin-price-etherum-and-other-cryptocurrencies-compare-2017-9
 
 ![image4](https://user-images.githubusercontent.com/32077698/33450014-5b628408-d5bf-11e7-8ae2-c505d2eb18bc.png)
 
@@ -76,8 +75,8 @@ Data Source: https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/d
 Data Source: https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data
 
 
-Bitcoin, being the oldest in the cryptocurrency market provides a peer-to-peer transaction for all prospective investors and Ethereum is its biggest competitor. The above three graphs show candlestick charts for Bitcoin, Ethereum and Litecoin showing the historical price pattern, since Ethereum was launched in 2015, we have taken a timeline of 2013-2017. As we observe, Bitcoin has witnessed a tremendous increase in its market price since inception and has remained the least volatile cryptocurrency in terms of investment and the price appreciation over the recent years when compared to Ethereum, which had a wide volatility rate in 2017. Despite being considered and generally perceived to be a digital currency which in technical terms, Bitcoin is, it is however currently operated as an investment with exceptionally great profit margins as mentioned in other metrics. 
-For Litecoin, we can see that Litecoin’s price suffered high fluctuations in 2014 and 2017 primarily due to its digital currency feature. Litecoin’s market capitalization stands at $3.77 Billion and is seventh in terms of ranking among the cryptocurrencies. It is highly volatile when compared to Bitcoin because whenever it experiences an upstick, after that it suffers a high drop.
+Bitcoin, being the oldest in the cryptocurrency market provides a peer-to-peer transaction for all prospective investors and Ethereum is its biggest competitor. The above three graphs show candlestick charts for Bitcoin, Ethereum and Litecoin showing the historical price pattern, since Ethereum was launched in 2015, we have taken a timeline of 2013-2017. As we observe, Bitcoin has witnessed a tremendous increase in its market price since inception and has remained the least volatile cryptocurrency in terms of investment and the price appreciation over the recent years.http://www.businessinsider.com/bitcoin-price-etherum-and-other-cryptocurrencies-compare-2017-9 While Ethereum had a wide volatility rate in 2017. Despite being considered and generally perceived to be a digital currency which in technical terms, Bitcoin is, it is however currently operated as an investment with exceptionally great profit margins as mentioned in other metrics where we are comparing it to USD/EURO dollars.
+For Litecoin, we can see that Litecoin’s price suffered high fluctuations in 2014 and 2017 primarily due to its digital currency feature. Litecoin’s market capitalization stands at $3.77 Billion and is seventh in terms of ranking among the cryptocurrencies. It is highly volatile when compared to Bitcoin because whenever it experiences an upstick, after that it suffers a high drop, which acta as an aversion.
 
 
 * #### Bitcoin, Ethereum and Litecoin's Bollinger bands comparing moving averages
@@ -95,12 +94,12 @@ Data Source: https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/d
 Data Source: https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data
 
 
-The above Tableau visual shows the Bollinger Bands for Bitcoin, Ethereum and Litecoin's price using moving average and utilizing the lower and upper band as price indicators. As we see, Bitcoin has witnessed a steady rise and its moving average has reasonably stayed with the lower and upper bands. This indicates less volatility and better foreseeability for prospective investors interested in investing in Bitcoin while for Ethereum, since upper and lower bands indicate volatility, we can see that it has suffered a drastic volatility in 2017 as the bands widened in the gap from the moving average in the middle. Though this trend was witnessed by almost all of the major cryptocurrencies in the year 2017 but volatility of Ethereum was higher than that of Bitcoin.<br />
-The reason being, Ethereum is an altcoin which makes it more prone to pump and dump behavior and less likely to be considered a long term asset. So, Ethereum being new to market is experiencing high supply ans people can move it around faster because of its low fees and block times. Litecoin also has high volatility as compared to bitcoin, as there is more gap in upper and lower bands.
+The above Tableau visual shows the Bollinger Bands for Bitcoin, Ethereum and Litecoin's price using moving average and utilizing the lower and upper band as price indicators. As we see, Bitcoin has witnessed a steady rise and its moving average has reasonably stayed with the lower and upper bands. This indicates less volatility and better foreseeability for prospective investors interested in investing in Bitcoin while for Ethereum, since upper and lower bands indicate volatility, we can see that it has suffered a drastic volatility in 2017 as the bands widened in the gap from the moving average in the middle. Though this trend was witnessed by almost all of the major cryptocurrencies in the year 2017 but volatility of Ethereum was higher than that of Bitcoin. Similarly for Litecoin, it has high volatility as compared to bitcoin, as there is more gap in upper and lower bands.<br />
+The reason being, Ethereum is an altcoin which makes it more prone to pump and dump behavior and less likely to be considered a long term asset. So, Ethereum being new to market is experiencing high supply and people can move it around faster because of its low fees and block times. Therefore, Bitcoin can be a better investment than the others. 
 
 ### Disadvantages of charts shown above:
 
-The charts above cannot be compared on similar grounds as they all have different scales because of different average prices over the years and we are just plotting the absolute values. Also, for Ethereum since we are taking everyday values, tableau is putting a particular month three or four times to show the moving dates, which should not be the case. It would be interesting to summarize the charts into one by taking the percentage difference of average closing prices on one axis, so that we can have standard grounds for comparison and based on that we can show how one is better than the other. This will also strike out the problem of "Eye beats memory".
+The charts above cannot be compared on similar grounds as they all have different scales because of different average prices over the years and we are just plotting the absolute values. Also, for Ethereum the date axis is bit off, which should not be the case. It would be interesting to summarize the charts into one by taking the percentage difference of average closing prices on one axis, so that we can have standard grounds for comparison and based on that we can show how one is better than the other. This will also strike out the problem of "Eye beats memory", as we can compare them in one chart.
 
 
 #### Comparing Bitcoin with S&P and Nasdaq Index
@@ -111,7 +110,7 @@ The charts above cannot be compared on similar grounds as they all have differen
 
 ### Disadvantages of charts shown above:
 
-The above charts show the candlesticks for Bitcoin, S&P 500 and Nasdaq Index comparing the average close prices for each. when we compare the three charts, it seems that Nasdaq and S&P 500 are performing almost same but that is not true because the axis scale is different for both. Nasdaq and Bitcoin have similar scales. When we compare all three Bitcoin is undoubtedly performing better, but this will be a Deceptive visualization because the scales are different. So, instead of plotting the absolute values, we should visualize their performance over time using % differences of their closing prices by using table calculation. 
+The above charts show the candlesticks for Bitcoin, S&P 500 and Nasdaq Index comparing the average close prices for each. When we compare the three charts, it seems that Nasdaq and S&P 500 are performing almost same but that is not true because the axis scale is different for both. Though, Nasdaq and Bitcoin have similar scales. When we compare all three, Bitcoin is undoubtedly performing better, but this will be a Deceptive visualization because the scales are different. So, instead of plotting the absolute values, we should visualize their performance over time using % differences of their closing prices by using table calculation. 
 
 
 ### 4. Visualizations showing Final Metrics:
@@ -119,7 +118,7 @@ The above charts show the candlesticks for Bitcoin, S&P 500 and Nasdaq Index com
 #### _Metrics 1:_ A $1000 investment in BTC in 2013, would have got you a minimum of 1700% in profits today!
 ![image2](https://user-images.githubusercontent.com/32077698/33450012-5b166a14-d5bf-11e7-81db-31428b9d64a5.png)
 
-The Visualization above shows a hindsight view of the value of Bitcoin against the major established currencies like USD and Euro in the market. The Cryptocurrency market is different from the Currency market in a way that the currencies are highly circulated to buy/sell goods and services globally and every platform accept these for transactions. But for Bitcoin, there are not as many platforms as other currencies have for tranactions, people have lately started to accept it. But as we observe the graph, the scale of the value of the investments in the Cryptocurrency market is very high. So, based on the past market trends of bitcoin, we can say that if you invest in bitcoin even today, it can promise you higher returns in the future. Bitcoin is indeed, a highly-valued asset to have!
+The Visualization above shows a hindsight view of the value of Bitcoin against the major established currencies like USD and Euro in the market. The Cryptocurrency market is different from the standard currency market in a way that the currencies are highly circulated to buy/sell goods and services globally and every platform accept these for transactions. But for Bitcoin, there are not as many platforms as other currencies have for tranactions, people have lately started to accept it. But as we observe the graph, the average prices in the cryptocurrency market are very high. So, for the sake of investment and to get good returns in future, it will be a good choice to invest in this market. And also based on the past market trends of bitcoin, we can say that if you invest in bitcoin even today, it can promise you more profit than these well established currencies. Bitcoin is indeed, a highly-valued asset to have!
 
 #### _Metrics 2:_ Bitcoin is an asset, Not a currency!
 ![image3](https://user-images.githubusercontent.com/32077698/33499723-f9eb733e-d68a-11e7-9eef-31de8c89f240.png)
