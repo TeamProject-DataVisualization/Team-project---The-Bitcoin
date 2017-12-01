@@ -64,7 +64,7 @@ https://www.icostats.com/vs-btc <br />
 
 ![image4](https://user-images.githubusercontent.com/32077698/33450014-5b628408-d5bf-11e7-8ae2-c505d2eb18bc.png)
 
-Data Source: https://www.kaggle.com/team-ai/bitcoin-price-prediction/data
+Data Source: https://www.kaggle.com/team-ai/bitcoin-price-prediction/data \citep
 
 ![image5](https://user-images.githubusercontent.com/32077698/33450015-5b7cec62-d5bf-11e7-8b25-bfb7637a78ae.png)
 
