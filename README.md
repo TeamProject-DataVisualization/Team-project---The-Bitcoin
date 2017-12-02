@@ -157,7 +157,10 @@ The investors who invested in early stages have received incredible returns whic
 As we observe the graph, we see the percent increase in ROI since ICO for Ethereum is very high than Bitcoin, for specific companies like Aeternity phase I, its 2172% and for other companies also it is high for ETH. **Why ICOs choose ETH?** ICOs choose ETH because with the ERC20 standard it is both seamless and easy to issue tokens using a smart contract. However, if these ICOs fail, then it does not help ETH, in fact, it harms its reputation and hence price could also drop.<br />
 (http://coinnoob.com/ico-choosing)
 
-## Link to Tableau Public:<br />
+## Link to Intermediate Versions on Tableau public: <br />
+
+
+## Link to Tableau Public(Final Data product):<br />
 https://public.tableau.com/profile/rachita.bhatia#!/vizhome/ShouldyoubetemptedtoinvestinBitcoin_0/Story1
 
 ### Reason: Why we chose Story?
