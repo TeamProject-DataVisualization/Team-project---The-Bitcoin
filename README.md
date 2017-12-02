@@ -210,3 +210,10 @@ http://www.chicagotribune.com/business/ct-biz-bitcoin-investing-advice-inv-20171
 https://etherscan.io/chart/tx<br />
 https://www.quora.com/Which-one-is-a-better-investment-Bitcoin-Ethereum-Litecoin-or-Ripple<br />
 https://coinmarketcap.com/<br />
+
+##Contributors:
+Muhammad Adeel Sultan Khan 
+Rachita Bhatia
+Ritu Pardasani
+Rucha Kulkarni
+Tanushree Chaudhary
