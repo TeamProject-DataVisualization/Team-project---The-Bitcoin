@@ -165,14 +165,17 @@ https://public.tableau.com/profile/rachita.bhatia#!/vizhome/Shouldyoubetemptedto
 
 ### Reason: Why we chose Story?
 
-We wanted to present a sequence of visualizations that can help us to persuade our audience, the Potential Investors to invest in Bitcoin. We found it to be a better way to put our visualizations through story points, so that we can highlight the main features of the worksheet in a narrative way. Going from benefits to the rebuttal, creates a better impact and help them decide which one weighs more. Also, If we had used a dashboard, it would have been too crowded to display all information on one screen and they could not have paid attention to the details, patterns and trends that are to be observed.
+We wanted to present a sequence of visualizations that can help us to persuade our audience, the Potential Investors to invest in Bitcoin. We wanted to highlight the main features of the worksheet in a narrative way, using story points. Going from benefits to the rebuttal, creates a better impact and help them decide which one weighs more. Also, If we had used a dashboard, it would have been too crowded to display all information on one screen and they could not have paid attention to the details, patterns and trends that are to be observed.
 
 ## Link to Showcase Video:<br />
 https://drive.google.com/a/scu.edu/file/d/1ZBMnQeAvEFgWtkPZRDKLMBULFo-39OV2/view?usp=sharing
 
+## Link to the presentation: <br />
+https://drive.google.com/a/scu.edu/file/d/1eIn16tZLVU4Pt2DH7qb3QC5BAXeYIoD6/view?usp=sharing
+
 ## Conclusion: 
 
-We can agree, the recent eye-popping gains in the cryptocurrency are hard to ignore, and for investors who want to expand their horizon in the investment market, definitely Bitcoin is the ideal stop. Risk is a part of any kind of investment, be it real estate, gold, oil or other currencies like USD/EURO or iconic companies like S&P 500. The potential of blockchain technology that underlies these virtual currencies is the new age technology. Many startups have started making use of it and also financial markets like Nasdaq have planned to introduce Bitcoin futures starting from next year. When it comes to taxation, the IRS views bitcoin and other virtual currencies as similar to stocks and bonds, and federal tax law dictates that purchasers and/or sellers must treat it as such. As far is limited bitcoin generation capability is concerned, as the Bitcoins will start becoming scarce(and that too in 2140 which is a very long time), the prices will rise as the demands will start increasing. Hence, after analyzing the benefits and risks, we can say that benefits outweigh the risks and Bitcoin, the Internet of money is a safe Investment!
+We can agree, the recent eye-popping gains in the cryptocurrency are hard to ignore, and for investors who want to expand their horizon in the investment market, definitely Bitcoin is the ideal stop. Risk is a part of any kind of investment, be it real estate, gold, oil or other currencies like USD/EURO or iconic companies like S&P 500. The potential of blockchain technology that underlies these virtual currencies is the new age technology. Many startups have started making use of it and also financial markets like Nasdaq have planned to introduce Bitcoin futures starting from next year. When it comes to taxation, the IRS views bitcoin and other virtual currencies as similar to stocks and bonds, and federal tax law dictates that purchasers and/or sellers must treat it as such. As far is limited bitcoin generation capability is concerned, as the Bitcoins will start becoming scarce(and that too in 2140 which is a very long time), the prices will rise as the demands will start increasing. Hence, after analyzing the benefits and risks, we can say that benefits outweigh the risks and Bitcoin, the Internet of money is one wise Investment!
 
 
 ## RoadMap for future Enhancements:
@@ -183,7 +186,7 @@ We can agree, the recent eye-popping gains in the cryptocurrency are hard to ign
 
 ![image15](https://user-images.githubusercontent.com/32077698/33459979-053b2496-d5e1-11e7-87ca-2fc2bde1be66.png)
 
-NVT helps to determine, if a price hike is a bubble or not. So lets see the graph showing NVT ratio to test the Bitcoin's market in October 2017, when the network valuation for bitcoin dropped from $81b to $49b. The NVT ratio is within the normal bounds which indicates a price consolidation and not a price crash. Hence, the transaction value flowing through bitcoin's network is healthy and not a bubble.
+NVT helps to determine, if a price hike is a bubble or not. So lets see the graph taken from **woobull.com** showing NVT ratio to test the Bitcoin's market in October 2017, when the network valuation for bitcoin dropped from $81b to $49b. The NVT ratio is within the normal bounds which indicates a price consolidation and not a price crash. Hence, the transaction value flowing through bitcoin's network is healthy and not a bubble.
 
 ![image16](https://user-images.githubusercontent.com/32077698/33459980-0559515a-d5e1-11e7-997a-5d18275bb98d.png)
 
