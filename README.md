@@ -112,19 +112,19 @@ The above charts show the candlesticks for Bitcoin, S&P 500 and Nasdaq Index com
 
 ### 4. Visualizations showing Final Metrics:
 
-#### _Metrics 1:_ A $1000 investment in BTC in 2013, would have got you a minimum of 1700% in profits today!
+### _Metrics 1:_ A $1000 investment in BTC in 2013, would have got you a minimum of 1700% in profits today!
 ![image2](https://user-images.githubusercontent.com/32077698/33450012-5b166a14-d5bf-11e7-81db-31428b9d64a5.png)
 Data Source: http://www.global-view.com/forex-trading-tools/forex-history/, http://www.macrotrends.net/1329/us-dollar-index-historical-chart <br />
 
 The Visualization above shows a hindsight view of the value of Bitcoin against the major established currencies like USD and Euro in the market. The Cryptocurrency market is different from the standard currency market in a way that the currencies are highly circulated to buy/sell goods and services globally and every platform accept these for transactions. But for Bitcoin, there are not as many platforms as other currencies have for tranactions, people have lately started to accept it. But as we observe the graph, the average prices in the cryptocurrency market are very high. So, for the sake of investment and to get good returns in future, it will be a good choice to invest in this market. And also based on the past market trends of bitcoin, we can say that if you invest in bitcoin even today, it can promise you more profit than these well established currencies. Bitcoin is indeed, a highly-valued asset to have!
 
-#### _Metrics 2:_ Bitcoin is an asset, Not a currency!
+### _Metrics 2:_ Bitcoin is an asset, Not a currency!
 ![image3](https://user-images.githubusercontent.com/32077698/33499723-f9eb733e-d68a-11e7-9eef-31de8c89f240.png)
 Data Source:https://etherscan.io/chart/tx, https://www.quandl.com/data/BCHAIN/TOTBC-Total-Bitcoins?utm_medium=graph&utm_source=quandl<br />
 
 The visualization above shows the number of transactions per day of Bitcoin compared to Ethereum(the second best in the cryptocurrency market). Though Bitcoin came in early (around 2009) the number of transactions per day using bitcoin have not increased very much - just 240K. This number when compared to the time frame which is 8 years is very less, considering the fact that this is a currency. **The reason behind this** – A Lot of people are buying bitcoins but are not using them in day-to-day transactions as they are treating them as an investment, a long term asset to keep. The comparison with Ethereum makes it clearer. Ethereum has almost doubled in the amount of transactions which means that people are not willing to use it as an asset, but rather using it as a digital currency and a mode of exchange. Therefore, we can conclude Bitcoin is an asset and not a currency as perceived by people!<br /> (https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/jeffreydorfman/2017/05/17/bitcoin-is-an-asset-not-a-currency/&refURL=&referrer=#6a0eeb252e5b)
 
-#### _Metrics 3:_ Bitcoin, an ideal investment when compared to other cryptocurrencies!
+### _Metrics 3:_ Bitcoin, an ideal investment when compared to other cryptocurrencies!
 ![image8](https://user-images.githubusercontent.com/32077698/33502424-d5a58636-d694-11e7-9222-93aa2abdfd74.png)
 Data Source: https://www.kaggle.com/team-ai/bitcoin-price-prediction/data,
 https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data <br />
@@ -133,7 +133,7 @@ This charts shows the comparison between Bitcoin and Ethereum by using the perce
 This is the **reason behind considering Bitcoin an ideal investment**, it has less fluctuating prices over time and more stable when it comes to an investment perspective. Also, Bitcoin is pretty old as compared to Ethereum so it has a history which can be relied upon. Many financial institutions and banks like J.P. Morgan have announced their plans to introduce cryptocurrency future which would provide attractive investment opportunities to all the prospective investors and would bring even more stability in the market of cryptocurrencies. Bitcoin investment would enable investors to utilize portfolio diversification, hedge their foreseeable risk and maximize the future expected return.
 
 
-#### _Metrics 4:_ S&P 500 took 30 times longer to reach where Bitcoin is today!
+### _Metrics 4:_ S&P 500 took 30 times longer to reach where Bitcoin is today!
 ![image11](https://user-images.githubusercontent.com/32077698/33502426-d5bdf720-d694-11e7-8589-95e4a3b41e5a.png)
 Data Source: http://www.nasdaq.com/symbol/spy/historical,
 https://finance.yahoo.com/quote/%5EIXIC/history?period1=34588800&period2=1511510400&interval <br />
