@@ -211,9 +211,9 @@ https://etherscan.io/chart/tx<br />
 https://www.quora.com/Which-one-is-a-better-investment-Bitcoin-Ethereum-Litecoin-or-Ripple<br />
 https://coinmarketcap.com/<br />
 
-##Contributors:
-Muhammad Adeel Sultan Khan 
-Rachita Bhatia
-Ritu Pardasani
-Rucha Kulkarni
-Tanushree Chaudhary
+## Contributors:
+##### Muhammad Adeel Sultan Khan <br />
+##### Rachita Bhatia<br />
+##### Ritu Pardasani<br />
+##### Rucha Kulkarni<br />
+##### Tanushree Chaudhary<br />
