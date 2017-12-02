@@ -158,7 +158,7 @@ As we observe the graph, we see the percent increase in ROI since ICO for Ethere
 (http://coinnoob.com/ico-choosing)
 
 ## Link to Intermediate Versions on Tableau public: <br />
-
+https://public.tableau.com/profile/muhammad.adeel3420#!/vizhome/Bitcoin_Intermediate_Visuals/Rebuttal
 
 ## Link to Tableau Public(Final Data product):<br />
 https://public.tableau.com/profile/rachita.bhatia#!/vizhome/ShouldyoubetemptedtoinvestinBitcoin_0/Story1
@@ -212,8 +212,8 @@ https://www.quora.com/Which-one-is-a-better-investment-Bitcoin-Ethereum-Litecoin
 https://coinmarketcap.com/<br />
 
 ## Contributors:
-##### Muhammad Adeel Sultan Khan <br />
-##### Rachita Bhatia<br />
-##### Ritu Pardasani<br />
-##### Rucha Kulkarni<br />
-##### Tanushree Chaudhary<br />
+#### Muhammad Adeel Sultan Khan <br />
+#### Rachita Bhatia<br />
+#### Ritu Pardasani<br />
+#### Rucha Kulkarni<br />
+#### Tanushree Chaudhary<br />
