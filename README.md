@@ -168,7 +168,7 @@ https://public.tableau.com/profile/rachita.bhatia#!/vizhome/Shouldyoubetemptedto
 We wanted to present a sequence of visualizations that can help us to persuade our audience, the Potential Investors to invest in Bitcoin. We found it to be a better way to put our visualizations through story points, so that we can highlight the main features of the worksheet in a narrative way. Going from benefits to the rebuttal, creates a better impact and help them decide which one weighs more. Also, If we had used a dashboard, it would have been too crowded to display all information on one screen and they could not have paid attention to the details, patterns and trends that are to be observed.
 
 ## Link to Showcase Video:<br />
-
+https://drive.google.com/a/scu.edu/file/d/1ZBMnQeAvEFgWtkPZRDKLMBULFo-39OV2/view?usp=sharing
 
 ## Conclusion: 
 
